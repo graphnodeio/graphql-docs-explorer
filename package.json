@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/graphnodeio/graphql-docs-explorer/issues"
   },
-  "homepage": "https://github.com/graphnodeio/graphql-docs-explorer#readme"
+  "homepage": "https://github.com/graphnodeio/graphql-docs-explorer#readme",
+  "dependencies": {
+    "graphql": "^15.4.0",
+    "markdown-it": "^12.0.2",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1",
+    "styled-components": "^5.2.1"
+  }
 }
